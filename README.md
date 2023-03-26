@@ -2,7 +2,7 @@
 
 ## Background
 
-As the marketing manager for Acme Espresso Machines (fictitious), a small manufacturer of premium coffee maker machines, I'm in a market dominated by
+Acme Espresso Machines is a small, fictitious manufacturer of premium coffee maker machines and is in a market dominated by
 several large manufacturers, including Breville, DeLonghi, Gaggia, and Rancilio. To improve Acme’s market share, I plan to analyze the market with several objectives in mind:
 
 - Identify specific market segments within the greater market
