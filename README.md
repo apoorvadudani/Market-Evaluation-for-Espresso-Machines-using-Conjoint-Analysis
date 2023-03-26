@@ -14,7 +14,7 @@ several large manufacturers, including Breville, DeLonghi, Gaggia, and Rancilio.
 
 I plan to conduct a conjoint analysis to address the objectives. 
 
-Conjoint analysis is a statistical technique used in market research to understand how people make decisions about products or services. It involves presenting participants with a series of product profiles, each of which has a unique combination of features, benefits or attributes, and asking them to choose their preferred option. By analyzing the patterns of choices made by participants, researchers can identify the relative importance of different attributes and how they affect overall preferences. It examines the tradeoffs between two or more attributes, which can help me advise which bundle of features Acme should include in its new coffee machines.  
+Conjoint analysis is a statistical technique used in market research to understand how people make decisions about products or services. It involves presenting participants with a series of product profiles, each of which has a unique combination of features/attributes (known as bundles), and asking them to choose their preferred option. By analyzing the patterns of choices made by participants, researchers can identify the relative importance of different attributes and how they affect overall preferences. It examines the tradeoffs between two or more attributes, which can help me advise which bundle of features Acme should include in its new coffee machines.  
 
 The versatile nature of conjoint analysis makes the technique relevant for many situations. Conjoint analysis is well-known with a deep body of research behind it, giving it credibility. The results of conjoint analysis are also applicable to consumer behavior; because the process uses actual product choices instead of surveys, the results can uncover hidden drivers not revealed during discussions with consumers
 
@@ -32,12 +32,12 @@ In attribute selection, I select characteristics (attributes) that consumers fin
 
 In the next step, I leverage secondary and primary research to identify the levels of the attributes where consumers perceive distinct differences. In Acme’s case, I identify two levels for each attribute: 
 
--Speed: S1: “Fast” (machine capable of brewing coffee in under one minute)
--Speed: S2: “Slow” (machine requires 1 minute or more to brew coffee)
--Capacity: C1: “Single-Cup” (machine makes 1 cup of espresso at a time)
--Capacity: C2: “Multi-Cup” (machines makes multiple cups at a time)
--Price: P1: “Budget” (machine price under $300)
--Price: P2: “Premium” (machine price $300 or more)
+- Speed: S1: “Fast” (machine capable of brewing coffee in under one minute)
+- Speed: S2: “Slow” (machine requires 1 minute or more to brew coffee)
+- Capacity: C1: “Single-Cup” (machine makes 1 cup of espresso at a time)
+- Capacity: C2: “Multi-Cup” (machines makes multiple cups at a time)
+- Price: P1: “Budget” (machine price under $300)
+- Price: P2: “Premium” (machine price $300 or more)
 
 ## 3. Product Bundle Formation
 
@@ -47,9 +47,11 @@ I create candidate products by bundling together the three attributes I selected
 
 ## 4. Data Collection 
 
-I gather the preference data indicating how much Acme's target audience likes each of the 8 candidate products. We have several ways to gather data. For Microsoft Excel, we recommend the rating scale method, where respondents rate each product bundle on a scale from 1 to 100, or some other scale. To make the arithmetic easy, we will have respondents rate each product on a scale of 1 to 5, similar to the ratings methodology used by Amazon.com. 
+I gather the preference data indicating how much Acme's target audience likes each of the 8 candidate products. I use the rating scale method, where respondents rate each product bundle on a scale of 1 to 5, similar to the ratings methodology used by Amazon.com. I collect the data, asking respondents to rate each candidate product bundle on a scale from 1 to 5:
 
-We now collect the data, asking respondents to rate each candidate product bundle on a scale from 1 to 5. The table below shows the resulting preference data for each card, or bundle.
+![image](https://user-images.githubusercontent.com/113878059/227753897-04d6a695-48ba-4cd1-ac78-268ec4f65bd6.png)
+
+The table below shows the resulting preference data for each card, or bundle:
 
 <img width="678" alt="image" src="https://user-images.githubusercontent.com/113878059/227753711-7db8003b-67a1-4fdc-8aed-1418f15bc3bc.png">
 
