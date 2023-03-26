@@ -22,7 +22,7 @@ I use a 10-step procedure to conduct the analysis as follows.
 
 ## 1. Attribute Selection
 
-In attribute selection, I select characteristics (attributes) that consumers find most relevant when evaluating a product or service. I first research secondary information, such as product reviews, and then conduct primary research, such as customer surveys, to identify 3 relevant attributes:
+In attribute selection, I select characteristics (attributes) that consumers find most relevant when evaluating a product or service. I first research secondary information, such as product reviews, industry reports and trade journals, and then conduct primary research through customer surveys, to identify 3 relevant attributes:
 
 - Speed (the length of time in minutes it takes someone to brew a cup of coffee)
 - Capacity (the number of cups of espresso the machine can brew at one time) 
@@ -41,7 +41,7 @@ In the next step, I leverage secondary and primary research to identify the leve
 
 ## 3. Product Bundle Formation
 
-I create candidate products by bundling together the three attributes I selected, and varying the levels of the attributes. Some marketer researchers call the bundles “cards” because the attributes are written down on physical cards (like 3” x 5” index cards) to show to respondents. In this case, I have 3 attributes of 2 levels each, so I will need 2^3 cards, or 8 cards. The cards are listed in the table below (and can also be found in . Note how every combination of attributes is represented in the table.
+I create candidate products by bundling together the three attributes I selected, and varying the levels of the attributes. Some marketer researchers call the bundles “cards” because the attributes are written down on physical cards (like 3” x 5” index cards) to show to respondents. In this case, I have 3 attributes assigned to 2 levels each, so I will need 2^3 cards, or 8 cards. The cards are listed in the table below. Note how every combination of attributes is represented in the table.
 
 <img width="516" alt="image" src="https://user-images.githubusercontent.com/113878059/227751954-183001a5-2235-4d37-bee8-6d2acc807db6.png">
 
