@@ -61,6 +61,8 @@ I prepare the data for use with R, as well as preparing R to solve the problem b
 
 ## Importance Weights Calculation
 
+
+
 ## Part-Worth Calculation
 
 ## Market Share Estimation
