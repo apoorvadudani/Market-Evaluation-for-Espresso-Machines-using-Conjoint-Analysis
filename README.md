@@ -12,11 +12,15 @@ several large manufacturers, including Breville, DeLonghi, Gaggia, and Rancilio.
 
 ## Data analysis method
 
-I plan to conduct a conjoint analysis to address the objectives, because  
+I plan to conduct a conjoint analysis to address the objectives. 
 
-I use a 10-step procedure as follows. 
+Conjoint analysis is a statistical technique used in market research to understand how people make decisions about products or services. It involves presenting participants with a series of product profiles, each of which has a unique combination of features, benefits or attributes, and asking them to choose their preferred option. By analyzing the patterns of choices made by participants, researchers can identify the relative importance of different attributes and how they affect overall preferences. It examines the tradeoffs between two or more attributes, which can help me advise which bundle of features Acme should include in its new coffee machines.  
 
-## Attribute Selection
+The versatile nature of conjoint analysis makes the technique relevant for many situations. Conjoint analysis is well-known with a deep body of research behind it, giving it credibility. The results of conjoint analysis are also applicable to consumer behavior; because the process uses actual product choices instead of surveys, the results can uncover hidden drivers not revealed during discussions with consumers
+
+I use a 10-step procedure to conduct the analysis as follows. 
+
+## 1. Attribute Selection
 
 In attribute selection, I select characteristics (attributes) that consumers find most relevant when evaluating a product or service. I first research secondary information, such as product reviews, and then conduct primary research, such as customer surveys, to identify 3 relevant attributes:
 
@@ -24,7 +28,7 @@ In attribute selection, I select characteristics (attributes) that consumers fin
 - Capacity (the number of cups of espresso the machine can brew at one time) 
 - Price (the retail price of the espresso machine).
 
-## Attribute Level Selection
+## 2. Attribute Level Selection
 
 In the next step, I leverage secondary and primary research to identify the levels of the attributes where consumers perceive distinct differences. In Acme’s case, I identify two levels for each attribute: 
 
@@ -35,13 +39,13 @@ In the next step, I leverage secondary and primary research to identify the leve
 -Price: P1: “Budget” (machine price under $300)
 -Price: P2: “Premium” (machine price $300 or more)
 
-## Product Bundle Formation
+## 3. Product Bundle Formation
 
 I create candidate products by bundling together the three attributes I selected, and varying the levels of the attributes. Some marketer researchers call the bundles “cards” because the attributes are written down on physical cards (like 3” x 5” index cards) to show to respondents. In this case, I have 3 attributes of 2 levels each, so I will need 2^3 cards, or 8 cards. The cards are listed in the table below (and can also be found in . Note how every combination of attributes is represented in the table.
 
 <img width="516" alt="image" src="https://user-images.githubusercontent.com/113878059/227751954-183001a5-2235-4d37-bee8-6d2acc807db6.png">
 
-## Data Collection Method Selection
+## 4. Data Collection Method Selection
 
 ## Data Collection
 
@@ -53,6 +57,6 @@ I create candidate products by bundling together the three attributes I selected
 
 ## Market Share Estimation
 
-## Data Interpretation
+## Data Interpretation and Recommendations
 
 ## References
