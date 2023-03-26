@@ -45,7 +45,7 @@ I create candidate products by bundling together the three attributes I selected
 
 <img width="516" alt="image" src="https://user-images.githubusercontent.com/113878059/227751954-183001a5-2235-4d37-bee8-6d2acc807db6.png">
 
-## 4. Data Collection 
+## 4. Data Collection and Results
 
 I gather the preference data indicating how much Acme's target audience likes each of the 8 candidate products. I use the rating scale method, where respondents rate each product bundle on a scale of 1 to 5, similar to the ratings methodology used by Amazon.com. I collect the data, asking respondents to rate each candidate product bundle on a scale from 1 to 5:
 
@@ -56,6 +56,8 @@ The table below shows the resulting preference data for each card, or bundle:
 <img width="678" alt="image" src="https://user-images.githubusercontent.com/113878059/227753711-7db8003b-67a1-4fdc-8aed-1418f15bc3bc.png">
 
 ## Data Preparation
+
+I prepare the data for use with R, as well as preparing R to solve the problem by loading the _conjoint_ package.
 
 ## Importance Weights Calculation
 
