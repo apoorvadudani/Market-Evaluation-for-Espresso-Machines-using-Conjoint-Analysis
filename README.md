@@ -55,6 +55,8 @@ The table below shows the resulting preference data for each card, or bundle:
 
 <img width="678" alt="image" src="https://user-images.githubusercontent.com/113878059/227753711-7db8003b-67a1-4fdc-8aed-1418f15bc3bc.png">
 
+To assist in segmenting the market into accessible groups, I also asked respondents to provide market segment identification data. This approach assumes "a priori" segmentation technique. To illustrate, I asked about demographic data (such as age and income), geographic data (such as ZIP code), behavioral data (such as their intended usage for use the product), and psychographic data (such as favorite interests or activities).
+
 ## Coding and Preparing Data for Analysis
 
 To make our analysis run smoothly in Microsoft Excel, I prepare the data for analysis by coding it into a special form. The coding includes two steps--converting the data into binary form, and removing redundant data.
@@ -96,16 +98,22 @@ I plug in the values for the constant and the A1, A2, and A3 coefficients to arr
 
 Preference = Constant + A1 * Speed 1 + A2 * Capacity 1 + A3 * Price 1
 
-*Preference = 3.75 + 1.75 Speed 1-0.75 * Capacity 1 + 1.25 * Price 1*
+*Preference = 2 + 1.75 * Speed 1 + - 0.75 * Capacity 1 + 1.25 * Price 1*
 
 The coefficients represent the utility the respondent places on the attributes. Because A1, the coefficient for Speed 1, is relatively large, we assert that the respondent places a high value on speed when selecting an espresso machine. The positive sign (+1.75) indicates that the respondent prefers Speed 1 (the fast machine) over the alternative speed, Speed 2.
+
 The negative sign in front of the coefficient for Capacity 1, A2, shows that the respondent holds a preference against the smaller machine (Capacity 1), preferring the larger machine instead (Capacity 2). The positive coefficient for A3 indicates a respondent preference for the lower priced machine (Price 1) over the higher price unit (Price 2).
-Apply Conjoint Results: In the final step, we interpret the results of the conjoint analysis, applying it for marketing purposes. For example, we might use the results to investigate possible market segmentation or to estimate market share using market simulation. Figure 7.22 provides an overview.
-
-## Market Share Estimation
-
-
 
 ## Data Interpretation and Recommendations
 
+I use the results to investigate possible market segmentation or to estimate market share using market simulation. I interpret the results of the conjoint analysis, applying it for marketing purposes.
+
+I now turn to respondent information from the survey that I can now use for demographic, geographic, behavioral, and psychographic segmentation. For instance, here is a sample of information I found from the survey result identifying one respondent:
+
+![image](https://user-images.githubusercontent.com/113878059/228977273-f10c8fd7-c994-472f-a69d-1ca435b0b72b.png)
+
+From this, I discover that the segment that indicates that "the machine will be used at work" will have a high part worth utility for speed. Therefore, in Acme's marketing communications to the "work" segment, I recommend emphasizing the machine's speed. If sufficient demand exists, I also recommend developing special high speed machines dedicated to that segment.
+
 ## References
+
+
