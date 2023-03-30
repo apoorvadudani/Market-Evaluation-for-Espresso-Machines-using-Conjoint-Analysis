@@ -73,12 +73,16 @@ This is what the table looks like without redundancies:
 
 ![image](https://user-images.githubusercontent.com/113878059/228738238-6747e07c-7366-4d8b-99ae-7087d40f6038.png)
 
-
-## Importance Weights Calculation
-
-
-
 ## Part-Worth Calculation
+
+I now calculate the preference consumers have for each attribute (called a part-worth) using multiple regression analysis. The multiple regression
+process fits a function that approximates the data for multiple variables (in our case, speed, capacity, and price). The process fits a function by minimizing the sum of the squares of the errors. The errors are the discrepancies between the fitted curve and the given data. Our example uses speed, capacity, and price as the evaluation attributes. Therefore, we use the following mathematical equation to predict preference levels:
+
+*Preference = (Constant) + A1 * (Speed 1) + A2 * (Capacity 1) + A3 * (Price 1)*
+
+In the equation, A1, A2, and A3 are coefficients expressing the contribution for the three attributes Speed 1, Capacity 1, and Price 1. Because part-worths express the importance of each attribute toward preference, we estimate the part-worths by calculating the coefficients for each variable in the describing equation. During the process, we also solve for the Constant, which represents the y-intercept of the equation.
+
+I execute regression analysis using the regression function provided in Microsoft Excel's set of data analysis functions.
 
 ## Market Share Estimation
 
