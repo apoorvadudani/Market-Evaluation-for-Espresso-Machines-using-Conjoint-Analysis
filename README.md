@@ -15,11 +15,9 @@ I plan to conduct a conjoint analysis to address the objectives.
 
 Conjoint analysis is a statistical technique used in market research to understand how people make decisions about products or services. It involves presenting participants with a series of product profiles, each of which has a unique combination of features/attributes (known as bundles), and asking them to choose their preferred option. By analyzing the patterns of choices made by participants, researchers can identify the relative importance of different attributes and how they affect overall preferences. It also quantifies the tradeoffs consumers are willing to make between two or more attributes, which can help me advise which bundle of features BrewWise should include in its new coffee machines.  
 
-The versatile nature of conjoint analysis makes the technique relevant for many situations. Conjoint analysis is well-known with a deep body of research behind it, giving it credibility. The results of conjoint analysis are also applicable to consumer behavior; because the process uses actual product choices instead of surveys, the results can uncover hidden drivers not revealed during discussions with consumers
+The versatile nature of conjoint analysis makes the technique relevant for many situations. Conjoint analysis is well-known with a deep body of research behind it, giving it credibility. The results of conjoint analysis are also applicable to consumer behavior; because the process uses actual product choices instead of surveys, the results can uncover hidden drivers not revealed during discussions with consumers.
 
-I use a 10-step procedure to conduct the analysis as follows. 
-
-## 1. Attribute Selection
+## Attribute Selection
 
 In attribute selection, I select characteristics (attributes) that consumers find most relevant when evaluating a product or service. I first research secondary information, such as product reviews, industry reports and trade journals, and then conduct primary research through customer surveys, to identify 3 relevant attributes:
 
@@ -27,7 +25,7 @@ In attribute selection, I select characteristics (attributes) that consumers fin
 - Capacity (the number of cups of espresso the machine can brew at one time) 
 - Price (the retail price of the espresso machine).
 
-## 2. Attribute Level Selection
+## Attribute Level Selection
 
 In the next step, I leverage secondary and primary research to identify the levels of the attributes where consumers perceive distinct differences. In BrewWise’s case, I identify two levels for each attribute: 
 
@@ -38,13 +36,13 @@ In the next step, I leverage secondary and primary research to identify the leve
 - Price: P1: “Budget” (machine price under $300)
 - Price: P2: “Premium” (machine price $300 or more)
 
-## 3. Product Bundle Formation
+## Product Bundle Formation
 
 I create candidate products by bundling together the three attributes I selected, and varying the levels of the attributes. Some marketer researchers call the bundles “cards” because the attributes are written down on physical cards (like 3” x 5” index cards) to show to respondents. In this case, I have 3 attributes assigned to 2 levels each, so I will need 2^3 cards, or 8 cards. The cards are listed in the table below. Note how every combination of attributes is represented in the table.
 
 ![image](https://user-images.githubusercontent.com/113878059/228981644-307b27da-e1a1-4439-b499-9d9e470e02d9.png)
 
-## 4. Data Collection and Results
+## Data Collection and Results
 
 I gather the preference data indicating how much BrewWise's target audience likes each of the 8 candidate products. I use the rating scale method, where respondents rate each product bundle on a scale of 1 to 5, similar to the ratings methodology used by Amazon.com. I collect the data, asking respondents to rate each candidate product bundle on a scale from 1 to 5:
 
