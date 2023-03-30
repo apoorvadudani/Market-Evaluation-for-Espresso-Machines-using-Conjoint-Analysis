@@ -55,9 +55,13 @@ The table below shows the resulting preference data for each card, or bundle:
 
 <img width="678" alt="image" src="https://user-images.githubusercontent.com/113878059/227753711-7db8003b-67a1-4fdc-8aed-1418f15bc3bc.png">
 
-## Data Preparation
+## Coding and Preparing Data for Analysis
 
-I prepare the data for use with R, as well as preparing R to solve the problem by loading the _conjoint_ package.
+To make our analysis run smoothly in Microsoft Excel, I prepare the data for analysis by coding it into a special form. The coding includes two steps--converting the data into binary form, and removing redundant data.
+
+I start by coding the data into binary form, which only allows only zeros (0) and ones (1). I use two columns to represent attributes with two levels. I assign two levels to the attribute Speed. I designate Speed 1 as the first level and Speed 2 as the second level. Then, I assign a "1" to each "True" entry, and a "0" to each "False" entry. I repeat the process with capacity and price. See results as below:
+
+
 
 ## Importance Weights Calculation
 
