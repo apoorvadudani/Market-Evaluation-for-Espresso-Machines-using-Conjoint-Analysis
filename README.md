@@ -61,6 +61,17 @@ To make our analysis run smoothly in Microsoft Excel, I prepare the data for ana
 
 I start by coding the data into binary form, which only allows only zeros (0) and ones (1). I use two columns to represent attributes with two levels. I assign two levels to the attribute Speed. I designate Speed 1 as the first level and Speed 2 as the second level. Then, I assign a "1" to each "True" entry, and a "0" to each "False" entry. I repeat the process with capacity and price. See results as below:
 
+![image](https://user-images.githubusercontent.com/113878059/228728726-35609b91-6b1f-4b6a-8066-d4acde0c18a9.png)
+
+For example, an espresso machine which completes the preparation of its drinks in under 60 seconds would be coded as Speed 1 = 1 because I have defined Speed 1 to indicate fast speeds. If Speed1 = 1, then Speed 2 must equal 0.
+
+Similarly, the figure shows coded values for capacity (Cap. 1 and Cap. 2) and price (Price 1 and Price 2). I do not code preference because it represents a ratio (in this case, a rating based on a scale of 1 to 5).
+
+To resolve the problem of linear dependency that might result from this coding, I omit one of the columns for each attribute. We only need (n-1) columns to express all the possible levels of the attribute, where n is the number of levels. Because the redundant column for each attribute is completely dependent on the remaining columns, we do not lose any information when we remove one column.
+
+This is what the table looks like without redundancies:
+
+![image](https://user-images.githubusercontent.com/113878059/228738238-6747e07c-7366-4d8b-99ae-7087d40f6038.png)
 
 
 ## Importance Weights Calculation
