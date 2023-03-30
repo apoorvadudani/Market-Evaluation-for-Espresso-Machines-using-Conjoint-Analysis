@@ -2,8 +2,7 @@
 
 ## Background
 
-Acme Espresso Machines is a small, fictitious manufacturer of premium coffee maker machines and is in a market dominated by
-several large manufacturers, including Breville, DeLonghi, Gaggia, and Rancilio. To improve Acme’s market share, I plan to analyze the market with several objectives in mind:
+BrewWise Espresso Machines is a small, fictitious manufacturer of premium coffee maker machines and is in a market dominated by several large manufacturers, including Breville, DeLonghi, Gaggia, and Rancilio. To improve BrewWise’s market share, I plan to analyze the market with several objectives in mind:
 
 - Identify specific market segments within the greater market
 - Identify specific features desired by different market segments
@@ -14,7 +13,7 @@ several large manufacturers, including Breville, DeLonghi, Gaggia, and Rancilio.
 
 I plan to conduct a conjoint analysis to address the objectives. 
 
-Conjoint analysis is a statistical technique used in market research to understand how people make decisions about products or services. It involves presenting participants with a series of product profiles, each of which has a unique combination of features/attributes (known as bundles), and asking them to choose their preferred option. By analyzing the patterns of choices made by participants, researchers can identify the relative importance of different attributes and how they affect overall preferences. It also quantifies the tradeoffs consumers are willing to make between two or more attributes, which can help me advise which bundle of features Acme should include in its new coffee machines.  
+Conjoint analysis is a statistical technique used in market research to understand how people make decisions about products or services. It involves presenting participants with a series of product profiles, each of which has a unique combination of features/attributes (known as bundles), and asking them to choose their preferred option. By analyzing the patterns of choices made by participants, researchers can identify the relative importance of different attributes and how they affect overall preferences. It also quantifies the tradeoffs consumers are willing to make between two or more attributes, which can help me advise which bundle of features BrewWise should include in its new coffee machines.  
 
 The versatile nature of conjoint analysis makes the technique relevant for many situations. Conjoint analysis is well-known with a deep body of research behind it, giving it credibility. The results of conjoint analysis are also applicable to consumer behavior; because the process uses actual product choices instead of surveys, the results can uncover hidden drivers not revealed during discussions with consumers
 
@@ -30,7 +29,7 @@ In attribute selection, I select characteristics (attributes) that consumers fin
 
 ## 2. Attribute Level Selection
 
-In the next step, I leverage secondary and primary research to identify the levels of the attributes where consumers perceive distinct differences. In Acme’s case, I identify two levels for each attribute: 
+In the next step, I leverage secondary and primary research to identify the levels of the attributes where consumers perceive distinct differences. In BrewWise’s case, I identify two levels for each attribute: 
 
 - Speed: S1: “Fast” (machine capable of brewing coffee in under one minute)
 - Speed: S2: “Slow” (machine requires 1 minute or more to brew coffee)
@@ -47,7 +46,7 @@ I create candidate products by bundling together the three attributes I selected
 
 ## 4. Data Collection and Results
 
-I gather the preference data indicating how much Acme's target audience likes each of the 8 candidate products. I use the rating scale method, where respondents rate each product bundle on a scale of 1 to 5, similar to the ratings methodology used by Amazon.com. I collect the data, asking respondents to rate each candidate product bundle on a scale from 1 to 5:
+I gather the preference data indicating how much BrewWise's target audience likes each of the 8 candidate products. I use the rating scale method, where respondents rate each product bundle on a scale of 1 to 5, similar to the ratings methodology used by Amazon.com. I collect the data, asking respondents to rate each candidate product bundle on a scale from 1 to 5:
 
 ![image](https://user-images.githubusercontent.com/113878059/227753897-04d6a695-48ba-4cd1-ac78-268ec4f65bd6.png)
 
@@ -112,7 +111,7 @@ I now turn to respondent information from the survey that I can now use for demo
 
 ![image](https://user-images.githubusercontent.com/113878059/228977273-f10c8fd7-c994-472f-a69d-1ca435b0b72b.png)
 
-From this, I discover that the segment that indicates that "the machine will be used at work" will have a high part worth utility for speed. Therefore, in Acme's marketing communications to the "work" segment, I recommend emphasizing the machine's speed. If sufficient demand exists, I also recommend developing special high speed machines dedicated to that segment.
+From this, I discover that the segment that indicates that "the machine will be used at work" will have a high part worth utility for speed. Therefore, in BrewWise's marketing communications to the "work" segment, I recommend emphasizing the machine's speed. If sufficient demand exists, I also recommend developing special high speed machines dedicated to that segment.
 
 ## References
 
