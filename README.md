@@ -84,13 +84,27 @@ In the equation, A1, A2, and A3 are coefficients expressing the contribution for
 
 I execute regression analysis using the regression function provided in Microsoft Excel's set of data analysis functions (ToolPak add-in).
 
-## Findings
+## Analysis Execution and Findings
 
 Microsoft Excel produces the following summary output after I input preferences data (our dependent variable) in the Input Y Range and speed, capacity and price data (our independent variables) in the Input X Range:
 
-![image](https://user-images.githubusercontent.com/113878059/228970150-90be8d0c-4761-471c-b9f0-baf8fd083a2f.png)
+![image](https://user-images.githubusercontent.com/113878059/228973657-d66f647a-b9de-44eb-8b85-fac37ab422e4.png)
+
+## Celculating Preference 
+
+I plug in the values for the constant and the A1, A2, and A3 coefficients to arrive at the following preference equation:
+
+Preference = Constant + A1 * Speed 1 + A2 * Capacity 1 + A3 * Price 1
+
+*Preference = 3.75 + 1.75 Speed 1-0.75 * Capacity 1 + 1.25 * Price 1*
+
+The coefficients represent the utility the respondent places on the attributes. Because A1, the coefficient for Speed 1, is relatively large, we assert that the respondent places a high value on speed when selecting an espresso machine. The positive sign (+1.75) indicates that the respondent prefers Speed 1 (the fast machine) over the alternative speed, Speed 2.
+The negative sign in front of the coefficient for Capacity 1, A2, shows that the respondent holds a preference against the smaller machine (Capacity 1), preferring the larger machine instead (Capacity 2). The positive coefficient for A3 indicates a respondent preference for the lower priced machine (Price 1) over the higher price unit (Price 2).
+Apply Conjoint Results: In the final step, we interpret the results of the conjoint analysis, applying it for marketing purposes. For example, we might use the results to investigate possible market segmentation or to estimate market share using market simulation. Figure 7.22 provides an overview.
 
 ## Market Share Estimation
+
+
 
 ## Data Interpretation and Recommendations
 
