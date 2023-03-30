@@ -53,7 +53,7 @@ I gather the preference data indicating how much Acme's target audience likes ea
 
 The table below shows the resulting preference data for each card, or bundle:
 
-<img width="678" alt="image" src="https://user-images.githubusercontent.com/113878059/227753711-7db8003b-67a1-4fdc-8aed-1418f15bc3bc.png">
+![image](https://user-images.githubusercontent.com/113878059/228981530-35160004-1870-4561-a1b4-06a02664fd1b.png)
 
 To assist in segmenting the market into accessible groups, I also asked respondents to provide market segment identification data. This approach assumes "a priori" segmentation technique. To illustrate, I asked about demographic data (such as age and income), geographic data (such as ZIP code), behavioral data (such as their intended usage for use the product), and psychographic data (such as favorite interests or activities).
 
