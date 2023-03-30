@@ -82,7 +82,13 @@ process fits a function that approximates the data for multiple variables (in ou
 
 In the equation, A1, A2, and A3 are coefficients expressing the contribution for the three attributes Speed 1, Capacity 1, and Price 1. Because part-worths express the importance of each attribute toward preference, we estimate the part-worths by calculating the coefficients for each variable in the describing equation. During the process, we also solve for the Constant, which represents the y-intercept of the equation.
 
-I execute regression analysis using the regression function provided in Microsoft Excel's set of data analysis functions.
+I execute regression analysis using the regression function provided in Microsoft Excel's set of data analysis functions (ToolPak add-in).
+
+## Findings
+
+Microsoft Excel produces the following summary output after I input preferences data (our dependent variable) in the Input Y Range and speed, capacity and price data (our independent variables) in the Input X Range:
+
+![image](https://user-images.githubusercontent.com/113878059/228970150-90be8d0c-4761-471c-b9f0-baf8fd083a2f.png)
 
 ## Market Share Estimation
 
