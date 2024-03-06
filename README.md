@@ -9,6 +9,8 @@ BrewWise Espresso Machines is a small, fictitious manufacturer of premium coffee
 - Select marketing messages that will resonate with market segments
 - Estimate market share performance for different types of machines
 
+![image](https://github.com/apoorvadudani/Market-Evaluation-for-Espresso-Machines-using-Conjoint-Analysis/assets/113878059/19dbf20b-6f8e-42b7-9ede-aba4a568898e)
+
 ## Data analysis method
 
 I plan to conduct a conjoint analysis to address the objectives. 
